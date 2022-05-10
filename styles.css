@@ -1,0 +1,120 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+
+.heading{
+    text-align: left;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5
+}
+
+#title .container-fluid{
+    padding: 3% 15%;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+} 
+
+.navbar-brand{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+.title-image{
+    padding-bottom: 100px;
+}
+
+.game2{
+    position: static;
+    margin-left: 100px;
+}
+
+.mouse,.setup{
+    width: 50%;
+}
+
+.mouse{
+    margin-top: 250px;
+    margin-bottom: 25px;
+}
+
+
+#pricing{
+    padding: 100px;
+}
+
+.pricing-col{
+    padding: 3% 2%;
+}
+
+.pricings{
+    padding-top: 20px;
+}
+
+.controller{
+    max-width: 90%;  
+    height: auto; 
+}
+
+.pricing1{
+    padding-top: 220px;
+}
+
+.pricings2{
+    padding-top: 85px;
+}
+
+
+.cta{
+        font-weight: bold;
+}
+
+.partners{
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+
+#footer{
+    margin:50px auto 50px auto;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
+
+.container-fluid{
+    padding: 7% 15%;
+}
+
+.colored-section{
+    background-color:#2b0966;
+    color: #fff;
+}
+
+.white-section{
+    background-color: #fff;
+}
+
+.fa-gamepad{
+    margin-right: 10px;
+}
+
+
